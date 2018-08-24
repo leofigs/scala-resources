@@ -25,6 +25,12 @@ https://www.findlectures.com/?q=scala
 
 https://www.youtube.com/watch?v=ugHsIj60VfQ
 
+[Scaladores Scala Group on YouTube(in portuguese)](https://www.youtube.com/user/scaladores/videos)
+
+[Scala Days Conferences on YouTube](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg/videos)
+
+
+
 ## practising
 
 https://www.scala-exercises.org/
